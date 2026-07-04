@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HopeNest - Support Registry and Crowdfunding Platform
 
 > "Every child deserves a home, every heart deserves a purpose"
@@ -88,3 +89,6 @@ To preview and interact with all user roles immediately, log in using:
 | **Public User** | `donor@hopenest.org` | `password123` | Make donations, book volunteer visits, sponsor children, track adoptions |
 | **Orphanage Admin** | `admin@hopenest.org` | `password123` | Post urgent needs, add child profiles, review/approve volunteer visits & adoptions |
 | **Super Admin** | `superadmin@hopenest.org` | `password123` | Approve orphanage registrations (via DB or API) |
+=======
+# HopeNest
+>>>>>>> 6f60de749dbbadc5e65bdbc4c20e342bc0c77f90
